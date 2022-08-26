@@ -1,0 +1,13 @@
+img, svg{
+    margin-top: 5%;
+    margin-left: 7%;
+    width: 37vw;
+    height: 37vw;
+    border-radius:10px;
+}
+.a-2s{
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+}
